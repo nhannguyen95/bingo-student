@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bingo-student:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bingo_student_jar</output-path>
+    <root id="archive" name="bingo-student.jar">
+      <element id="module-output" name="bingo-student" />
+    </root>
+  </artifact>
+</component>
