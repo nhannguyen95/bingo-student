@@ -1,2 +1,2 @@
 # bingo-student
-A small software to practice with java swing
+A small software to practice with JAVA swing
